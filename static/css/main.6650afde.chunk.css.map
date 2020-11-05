@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,KACE,kBAAmB,CAEnB,UACE,cAAe","file":"main.6650afde.chunk.css","sourcesContent":[".app {\r\n  margin: 5vw 0 0 40%;\r\n\r\n  &_list {\r\n    margin: 3% 7.5%;\r\n  }\r\n}\r\n"]}
